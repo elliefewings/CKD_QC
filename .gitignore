@@ -1,0 +1,7 @@
+data/poorsample/pipeline_output/*.Rdata
+data/goodsample/pipeline_output/*.Rdata
+data/badsample/pipeline_output/*.Rdata
+data/poorsample/outs
+data/goodsample/outs
+data/badsample/outs
+data/badsample/badsample_hashtag
